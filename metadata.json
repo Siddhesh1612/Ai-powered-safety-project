@@ -1,0 +1,8 @@
+{
+  "name": "CampusShield AI",
+  "description": "An AI-powered autonomous incident reporting and safety dispatch system for university campuses.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
